@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985804558226",
+    "firebase_url": "https://vercosearchapp.firebaseio.com",
+    "project_id": "vercosearchapp",
+    "storage_bucket": "vercosearchapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985804558226:android:f324cf12f25b9ccd",
+        "android_client_info": {
+          "package_name": "com.example.nicolas.vercoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985804558226-orn5n6hkbahectu9afvi7keqgv8di794.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicolas.vercoapp",
+            "certificate_hash": "0857ecd80c2dc947e60ce4878dc35ce5005ed8be"
+          }
+        },
+        {
+          "client_id": "985804558226-aa422qie0trfngje17u330g4f8nrvekc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0j3FpTFAMajrwtqZv41cWjDAiyGV0i4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985804558226-aa422qie0trfngje17u330g4f8nrvekc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
